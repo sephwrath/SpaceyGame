@@ -1,0 +1,63 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Spacey 2 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPDE.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /FR"Debug/" /Fp"Debug/Spacey 2.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /c 
+"H:\Steve's Documents\Spacey Media\Spacey 2\Terrain.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPDE.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPDF.tmp" with contents
+[
+ddraw.lib dsound.lib dxguid.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib winmm.lib /nologo /subsystem:windows /profile /debug /machine:I386 /out:"Debug/Spacey 2.exe" 
+".\Debug\Cdib.obj"
+".\Debug\CLIST.OBJ"
+".\Debug\Ddtools.obj"
+".\Debug\Drawing.obj"
+".\Debug\DSTOOLS.OBJ"
+".\Debug\Frames.obj"
+".\Debug\GameKeys.obj"
+".\Debug\Globals.obj"
+".\Debug\Main.obj"
+".\Debug\ShipDraw.obj"
+".\Debug\Terrain.obj"
+".\Debug\DigitalCounter.obj"
+".\Debug\Drawable.obj"
+".\Debug\GameDisplay.obj"
+".\Debug\ProgressBar.obj"
+".\Debug\bullet.obj"
+".\Debug\Explosion.obj"
+".\Debug\SprAssassin.obj"
+".\Debug\SprAsteroid.obj"
+".\Debug\SprFighter.obj"
+".\Debug\Sprite.obj"
+".\Debug\SpriteManage.obj"
+".\Debug\SprKamikazi.obj"
+".\Debug\SprTransportPlane.obj"
+".\Debug\Charge.obj"
+".\Debug\Flack.obj"
+".\Debug\HMissile.obj"
+".\Debug\Laser.obj"
+".\Debug\Missile.obj"
+".\Debug\Spread.obj"
+".\Debug\WeaponManage.obj"
+".\Debug\Cursor.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPDF.tmp"
+<h3>Output Window</h3>
+Compiling...
+Terrain.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Spacey 2.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
